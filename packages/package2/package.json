@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/Cheering-baby/lerna-practice/issues"
   },
-  "gitHead": "b6774a5f0aec56a5e333835ed031a7376c7fa2f6"
+  "gitHead": "3556a291f715e0a060920d0dccbeea59464c6d1d"
 }
