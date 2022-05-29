@@ -10,6 +10,10 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "dependencies": {
+    "lodash": "latest",
+    "ramda": "latest"
+  },
   "files": [
     "lib"
   ],
